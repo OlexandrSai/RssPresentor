@@ -1,0 +1,12 @@
+C:\Users\Людмила\source\repos\RssPresentor\backend\RssPresentor.Data\bin\Debug\netcoreapp3.1\RssPresentor.Data.deps.json
+C:\Users\Людмила\source\repos\RssPresentor\backend\RssPresentor.Data\bin\Debug\netcoreapp3.1\RssPresentor.Data.dll
+C:\Users\Людмила\source\repos\RssPresentor\backend\RssPresentor.Data\obj\Debug\netcoreapp3.1\RssPresentor.Data.csprojAssemblyReference.cache
+C:\Users\Людмила\source\repos\RssPresentor\backend\RssPresentor.Data\obj\Debug\netcoreapp3.1\RssPresentor.Data.AssemblyInfoInputs.cache
+C:\Users\Людмила\source\repos\RssPresentor\backend\RssPresentor.Data\obj\Debug\netcoreapp3.1\RssPresentor.Data.AssemblyInfo.cs
+C:\Users\Людмила\source\repos\RssPresentor\backend\RssPresentor.Data\obj\Debug\netcoreapp3.1\RssPresentor.Data.csproj.CoreCompileInputs.cache
+C:\Users\Людмила\source\repos\RssPresentor\backend\RssPresentor.Data\bin\Debug\netcoreapp3.1\RssPresentor.Data.pdb
+C:\Users\Людмила\source\repos\RssPresentor\backend\RssPresentor.Data\bin\Debug\netcoreapp3.1\RssPresentor.Model.dll
+C:\Users\Людмила\source\repos\RssPresentor\backend\RssPresentor.Data\bin\Debug\netcoreapp3.1\RssPresentor.Model.pdb
+C:\Users\Людмила\source\repos\RssPresentor\backend\RssPresentor.Data\obj\Debug\netcoreapp3.1\RssPresentor.Data.csproj.CopyComplete
+C:\Users\Людмила\source\repos\RssPresentor\backend\RssPresentor.Data\obj\Debug\netcoreapp3.1\RssPresentor.Data.dll
+C:\Users\Людмила\source\repos\RssPresentor\backend\RssPresentor.Data\obj\Debug\netcoreapp3.1\RssPresentor.Data.pdb
